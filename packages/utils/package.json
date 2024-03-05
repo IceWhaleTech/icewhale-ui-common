@@ -1,8 +1,9 @@
 {
   "name": "@icewhale/ui-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "private": false,
+  "homepage": "https://github.com/IceWhaleTech/icewhale-ui-common",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
