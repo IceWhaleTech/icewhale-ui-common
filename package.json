@@ -6,7 +6,7 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "changeset": "changeset",
-    "publish:packages": "changeset publish",
+    "publish:packages": "changeset publish --access public",
     "version:packages": "changeset version"
   },
   "author": "icewhale",

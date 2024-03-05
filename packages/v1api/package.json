@@ -1,6 +1,7 @@
 {
   "name": "@icewhale/ui-v1-api",
   "version": "0.0.0",
+  "private": false,
   "description": "",
   "main": "index.ts",
   "scripts": {
