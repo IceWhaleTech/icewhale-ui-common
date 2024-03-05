@@ -1,0 +1,17 @@
+{
+  "name": "@icewhale/icewhale-ui-common",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "changeset": "changeset",
+    "publish:packages": "changeset publish",
+    "version:packages": "changeset version"
+  },
+  "author": "icewhale",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
+}
